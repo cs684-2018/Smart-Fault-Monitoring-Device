@@ -1,0 +1,6 @@
+{
+  "arch": "esp8266",
+  "platform": "esp8266",
+  "app_name": "aws-sfmd-js",
+  "build_time_ms": 36761
+}

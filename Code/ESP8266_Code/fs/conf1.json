@@ -1,0 +1,25 @@
+{
+  "device": {
+    "id": "SFMD_dev1"
+  },
+  "wifi": {
+    "sta": {
+      "enable": true,
+      "ssid": "virus",
+      "pass": "7208637994"
+    },
+    "ap": {
+      "enable": false
+    }
+  },
+  "mqtt": {
+    "enable": true,
+    "server": "a221a6r4ojicsi.iot.ap-southeast-1.amazonaws.com:8883",
+    "ssl_cert": "certificate.crt.pem",
+    "ssl_key": "private.key.pem",
+    "ssl_ca_cert": "ca.pem"
+  },
+  "aws": {
+    "thing_name": "thing38"
+  }
+}
