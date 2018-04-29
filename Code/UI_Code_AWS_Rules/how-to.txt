@@ -1,0 +1,15 @@
+1. Create a thing in the dashboard
+2. Create devices under that thing as:
+	a. Current_mA
+	b. VoltagePrimary
+	c. VoltageSecondary
+	d. PowerStatus
+	e. sendEmail
+	f. MCBStatus
+	g. LED, boolean, actuator
+3. Download certificates and keep them in a seperate folder
+4. Clone the attached repo/workspace of ESP code 
+5. Now put the certificate files into fs folder
+6. Change the conf1.json and code according to generate_client as found on IoT platform
+7. Build and flash
+8. Go to dashboard and check if you are getting the output.
