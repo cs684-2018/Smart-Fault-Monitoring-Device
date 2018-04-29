@@ -42,7 +42,9 @@ TI CCS is required to compile the Tiva controller code
 
 Demonstration Video 
 =========================  
-Add the youtube link of the screencast of your project demo.
+https://youtu.be/y2OiD-OSoA0
+
+
 
 References 
 =========== 
